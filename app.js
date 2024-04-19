@@ -6,6 +6,8 @@ let result = boshHarf + davomi
 
 alert(`salom, ${result}`)
 
+document.write(result)
+
 //charAt()
 //slice()
 //toUpperCase()
